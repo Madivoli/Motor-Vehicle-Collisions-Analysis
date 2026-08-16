@@ -58,7 +58,7 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 
 ## 💻 Data Analysis
 
-    *   [SQL](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
+    *   [SQL]([https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql]) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
     *   [Excel](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/ROAS%20vs%20Actual%20ROI.xlsx) — *Using Pivot Tables, Pivot Charts, Conditional Formatting, Combi-Charts, 100% Stacked Bar Charts, and Line Charts.*
 
 *   **Business Intelligence and Dashboards:**
@@ -67,10 +67,7 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
     *   [Profitability and Cost Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/PROFITABILITY%20AND%20COST%20ANALYSIS%20REPORT.pdf)
-    *   [Products and Channel Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/PRODUCTS%20AND%20CHANNEL%20ANALYSIS%20REPORT.pdf)
-    *   [Marketing Spend Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/MARKETING%20SPEND%20REPORT.pdf)
-    *   [Payment Method Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/PAYMENT%20METHOD%20ANALYSIS%20REPORT.pdf)
-    *   [Supplier Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/SUPPLIER%20ANALYSIS%20REPORT.pdf)
+
 ---
 
 ## 🛠️ Data Pipeline Architecture (Python Implementation)
