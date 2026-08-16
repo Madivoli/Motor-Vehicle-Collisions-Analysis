@@ -50,12 +50,6 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 [Click here](https://nbviewer.org/github/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collisions_analysis.ipynb) for the complete, self-contained Python script that implements the entire workflow, including SQL database creation.
 
 
-  *   [Raw Transaction Dataset](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/Dataset.zip) — *The uncleaned, raw transactional ledger containing initial format discrepancies and missing customer identifiers.*
-   
-    *   [Processed and Cleaned Dataset](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/Cleaned.zip) — *The optimized, structurally sound datasets engineered for direct ingestion into DBeaver, Excel, and Tableau Desktop.*
-
-
-
 ## 💻 Data Analysis
 
     *   [SQL]([https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql]) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
