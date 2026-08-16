@@ -4,7 +4,7 @@ This repository contains an end-to-end data analytics project analyzing motor ve
 
 ---
 
-## 🚗 NYC Collision Data Cleaning and Imputation Pipeline
+## 🚗 Data Cleaning and Imputation Pipeline
 This automated pipeline ingests raw NYPD Motor Vehicle Collision data, resolves missing information using spatial mapping, standardizes variable formats, and securely stores the production-ready dataset in both CSV and SQL Database formats.
 
 *   **Data Ingestion and Initial Health Check.**
@@ -56,7 +56,8 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 
 
 
-*   **Data Analysis:**
+## 💻 Data Analysis
+
     *   [SQL](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
     *   [Excel](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/ROAS%20vs%20Actual%20ROI.xlsx) — *Using Pivot Tables, Pivot Charts, Conditional Formatting, Combi-Charts, 100% Stacked Bar Charts, and Line Charts.*
 
