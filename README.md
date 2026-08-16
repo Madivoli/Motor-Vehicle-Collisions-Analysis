@@ -47,11 +47,8 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 
 **💻 Complete Pipeline Code**
 
-Click here for the complete, self-contained Python script that implements the entire workflow, including SQL database creation.
+[Click here](https://nbviewer.org/github/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collisions_analysis.ipynb) for the complete, self-contained Python script that implements the entire workflow, including SQL database creation.
 
-
-
-  *    [Python Data Cleaning Notebook](https://nbviewer.org/github/Madivoli/e-commerce_profitability_analysis/blob/main/orders.ipynb) — *The complete automated data pipeline used for handling missing values, standardizing datetime objects, downcasting integer columns to memory-efficient types, and creating & saving database*:
 
   *   [Raw Transaction Dataset](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/Dataset.zip) — *The uncleaned, raw transactional ledger containing initial format discrepancies and missing customer identifiers.*
    
