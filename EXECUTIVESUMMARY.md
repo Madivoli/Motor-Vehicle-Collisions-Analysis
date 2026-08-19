@@ -30,10 +30,10 @@ The analysis demonstrates that traffic collisions in New York City represent a s
 <br>
 
 **Injury and Fatality Highlights**
-•	Borough Casualty Concentrations: Brooklyn (121,704 injured, 525 killed) and Queens (105,523 injured, 526 killed) suffer 63% of all traffic casualties in New York City. 
-•	Mode Exposure Disparity: While motorists account for 73.5% of total injuries (280,951), pedestrians account for 46.8% of total deaths (871 fatalities). A pedestrian involved in a crash is over 4 times more likely to die than a motorist (1.32% fatality rate vs. 0.29%). 
-•	Divergence Between Crashes and Fatalities: While total crash volume dropped 58.3% between 2018 and 2023, annual fatalities increased 15.6% (peaking at 296 in 2021). Consequently, the fatality rate per 1,000 crashes nearly tripled from 1.00 in 2018 to 2.78 in 2022. 
-•	Severity Drivers: Higher vehicle speeds on open roads post-2020, an increase in heavy SUVs/trucks, and a reduction in reported low-speed fender-benders explain why crashes became significantly more lethal.
+* **Borough Casualty Concentrations:** **Brooklyn (121,704 injured, 525 killed)** and **Queens (105,523 injured, 526 killed)** suffer **63% of all traffic casualties** in New York City.
+* **Mode Exposure Disparity:** While **motorists account for 73.5% of total injuries (280,951)**, **pedestrians account for 46.8% of total deaths (871 fatalities)**. A pedestrian involved in a crash is **over 4 times more likely to die than a motorist (1.32% fatality rate vs. 0.29%)**.
+* **Divergence Between Crashes and Fatalities:** While total crash volume **dropped 58.3% between 2018 and 2023**, annual fatalities **increased 15.6% (peaking at 296 in 2021)**. Consequently, the fatality rate per 1,000 crashes nearly **tripled from 1.00 in 2018 to 2.78 in 2022**.
+* **Severity Drivers:** Higher vehicle speeds on open roads post-2020, an increase in heavy SUVs/trucks, and a reduction in reported low-speed fender-benders explain why crashes became significantly more lethal.
 
 <br>
 
