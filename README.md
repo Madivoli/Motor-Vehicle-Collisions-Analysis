@@ -50,17 +50,13 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 [Click here](https://nbviewer.org/github/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collisions_analysis.ipynb) for the complete, self-contained Python script that implements the entire workflow, including SQL database creation.
 
 
-https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql
-https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql
-
 ## 💻 Data Analysis
 
 *   **Data Analysis:**
-    *   [SQL](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
-    *   [Excel](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/ROAS%20vs%20Actual%20ROI.xlsx) — *Using Pivot Tables, Pivot Charts, Conditional Formatting, Combi-Charts, 100% Stacked Bar Charts, and Line Charts.*
+    *   [SQL](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
 
 *   **Business Intelligence and Dashboards:**
-    *   [Tableau Workbook (Packaged)](./dashboards/ecommerce_executive_analytics.twbx) — *The interactive workbook containing KPIs, executive-ready visual stories, dashboards, calculated fields, actions, and parameters.*
+    *   [Tableau Workbook (Packaged)](./dashboards/ecommerce_executive_analytics.twbx) — *The interactive workbook containing Metrics, executive-ready visual stories, dashboards, calculated fields, actions, and parameters.*
 
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
