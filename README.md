@@ -1,6 +1,6 @@
 # Motor Vehicle Collisions Analysis
 ## 📌 Project Overview
-This repository contains an end-to-end data analytics project analyzing motor vehicle collision data across New York City. The project aims to engineer a clean data pipeline that transforms raw, unstandardized data into an interactive executive dashboard and visualizations that identify dangerous locations, common causes of crashes, peak-risk hours, and opportunities to improve road safety. The dataset includes crash dates/times, locations, boroughs, vehicle types, injuries/fatalities, and contributing factors. This is real open data collected by the NYPD.
+This repository contains an end-to-end data analytics project analyzing motor vehicle collision data across New York City. The project aims to engineer a clean data pipeline that transforms raw, unstandardized data into an interactive executive dashboard and visualizations that identify dangerous locations, common crash causes, peak-risk hours, and opportunities to improve road safety. The dataset includes crash dates/times, locations, boroughs, vehicle types, injuries/fatalities, and contributing factors. This is real open data collected by the NYPD.
 
 ---
 
