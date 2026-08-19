@@ -62,14 +62,3 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
     *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of numerous reports containing main findings and numbers, recommendations, conclusion, and call-to-action sections for management.*
     *   [Motor Vehicle Collisions Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/PROFITABILITY%20AND%20COST%20ANALYSIS%20REPORT.pdf)
 
----
-
-## 🛠️ Data Pipeline Architecture (Python Implementation)
-The data cleaning process achieved the following data-quality benchmarks:
-1. **Installing and Importing Pandas:** Installed the `Pandas` module first since it is not pre-installed in the `Jupyter Notebook IDE`.
-2. **Loading the Data:** Loaded and read the CSV files into DataFrames. Since I was working with 3 different files, I called the dataframes with readable names (orders, marketing spend, and products).
-3. **Understanding the Data:** Used the `df.info()` command to check the columns, what type they are, and how many non-null values they have. 
-4. **Handling Missing Values:** Checked for missing values. There were no NaN or missing values in the datasets.
-5. **Converting Data Types:** Converted columns (e.g., `channel`, `payment_method`, `region`) from objects/strings to categorical data types to save memory and improve speed.
-6. **Saving the Clean Data:** Saved the cleaned data into CSV files.
-7. **Creating a Database:** Installed the `sqlite3` module. Created and saved the cleaned dataframe into databases (orders, marketing spend, and product db) for further analysis using DBeaver's (Database Management Software) SQL, Excel, and Tableau Desktop.
