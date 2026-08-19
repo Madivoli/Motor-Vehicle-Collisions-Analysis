@@ -50,9 +50,13 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 [Click here](https://nbviewer.org/github/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collisions_analysis.ipynb) for the complete, self-contained Python script that implements the entire workflow, including SQL database creation.
 
 
+https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql
+https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql
+
 ## 💻 Data Analysis
 
-    *   [SQL]([https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql]) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
+*   **Data Analysis:**
+    *   [SQL](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/brightcart_analysis.sql) — *The repository of structured queries used to calculate margin percent, determine revenue and cost drivers, carry out marketing attribution and channel audit, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
     *   [Excel](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/ROAS%20vs%20Actual%20ROI.xlsx) — *Using Pivot Tables, Pivot Charts, Conditional Formatting, Combi-Charts, 100% Stacked Bar Charts, and Line Charts.*
 
 *   **Business Intelligence and Dashboards:**
