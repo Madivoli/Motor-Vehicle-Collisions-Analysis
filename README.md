@@ -59,6 +59,6 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
     *   [Tableau Workbook (Packaged)](./dashboards/ecommerce_executive_analytics.twbx) — *The interactive workbook containing Metrics, executive-ready visual stories, dashboards, calculated fields, actions, and parameters.*
 
 *   **Executive Summary and Reports:**
-    *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, recommendations, conclusion, and call-to-action sections for the mayor's office.*
+    *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the mayor's office.*
     *   [Motor Vehicle Collisions Analysis Report](https://github.com/Madivoli/e-commerce_profitability_analysis/blob/main/PROFITABILITY%20AND%20COST%20ANALYSIS%20REPORT.pdf)
 
