@@ -42,3 +42,35 @@ The analysis demonstrates that traffic collisions in New York City represent a s
 * **Lethality of Passenger Vehicles:** Standard passenger cars cause nearly two-thirds (64.5%) of all traffic fatalities (Sedans: 626 deaths; SUVs/Station Wagons: 542 deaths).
 * **Disproportionate Risk of Motorcycles:** Motorcycles account for 10.5% of all fatalities (190 deaths) despite representing less than 1% of total crash volume.
 * **Commercial and Service Impact:** Heavy commercial trucks, box trucks, pickup trucks, and taxis contribute to over 47,000 crashes and secondary casualty risks due to blind spots, double parking, and loading zone congestion
+
+<br>
+
+**CONCLUSION AND RECOMMENDATIONS**
+<br>
+**Conclusion**
+<br>
+The analysis demonstrates that traffic collisions in New York City represent a systemic public health challenge heavily concentrated by geography, corridor type, and vehicle class. While total crash volume has dropped significantly since 2018, the severity and lethality of individual collisions have escalated substantially. Overwhelmingly driven by preventable human behaviors—primarily driver distraction, tailgating, and failure to yield—collisions pose the highest fatal risk to vulnerable road users like pedestrians and cyclists, who lack physical frame protection against increasingly large passenger SUVs and commercial trucks. Addressing this crisis requires shifting from passive driver messaging to aggressive, forgiving infrastructure redesigns and targeted policy interventions. 
+
+<br>
+
+**Recommendations for NYC DOT**
+1.	**Targeted Capital and Corridor Infrastructure Budgets**
+* **Reallocate Outer-Borough Funding:** Direct at least **55% to 60% of roadway safety and street redesign capital budgets** to high-injury corridors in Brooklyn and Queens (e.g., Atlantic Avenue, Linden Boulevard, Flatbush Avenue Extension).
+* **Implement Road Diets on Arterials:** Re-engineer multi-lane avenues by narrowing vehicle lanes, installing speed cushions, and adding pedestrian refuge islands to reduce open-road speeding.
+* **Redesign Gateway and Highway Access Intersections:** Re-align bridge/tunnel approaches and high-volume junctions (such as Flatbush Ave & Tillary St and Bruckner Blvd & E 138th St) with dedicated turn lanes, overhead lane assignment, and flexible dikes to prevent last-second merging cuts. 
+<br>
+
+2.	**Pedestrian and Micromobility Protection Systems**
+* **Expand Signal Timing Interventions:** Implement Leading Pedestrian Intervals (LPIs) and split-phase turn signals across all top 100 high-incident intersections to eliminate vehicle-pedestrian turning conflicts. 
+* **Build Protected Micromobility Networks:** Upgrade painted bike lanes to concrete-bollard or curb-protected physical barriers to isolate cyclists, e-bike users, and scooter riders from heavy vehicle traffic. 
+* **Universal Intersection Daylighting:** Clear parking spaces immediately adjacent to crosswalks across commercial corridors to maximize sightlines between turning drivers and pedestrians.
+<br>
+
+3.	**Curbside, Freight, and Vehicle Safety Management**
+* **Expand Neighborhood Loading Zones (NLZs):** Establish dedicated curbside truck loading zones along high-density commercial corridors (e.g., 2nd and 3rd Avenues) to curb double-parking and unsafe reversing maneuvers.
+* **Commercial Direct-Vision and Fleet Standards:** Mandate side guards, blind-spot cameras, and high-visibility cab requirements for city contractor fleets and heavy commercial vehicles operating in dense pedestrian zones.
+<br>
+
+4.	**Automated Enforcement and Data Modernization**
+* **24/7 Automated Camera Coverage:** Expand automated speed safety cameras and red-light enforcement along outer-borough arterial avenues where speeding ranks among top crash causes. 
+* **Upgrade NYPD Electronic Reporting Software:** Re-engineer police crash logging interfaces to capture precise GPS coordinates automatically and provide distinct sub-categories for distracted driving (e.g., handheld phone vs. texting) to eliminate broad "catch-all" data gaps.
