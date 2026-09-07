@@ -45,15 +45,8 @@ The traffic collisions in New York City represent a systemic public health chall
 
 <br>
 
-**CONCLUSION AND RECOMMENDATIONS**
-<br>
-**Conclusion**
-<br>
-The analysis demonstrates that traffic collisions in New York City represent a systemic public health challenge heavily concentrated by geography, corridor type, and vehicle class. While total crash volume has dropped significantly since 2018, the severity and lethality of individual collisions have escalated substantially. Overwhelmingly driven by preventable human behaviors—primarily driver distraction, tailgating, and failure to yield—collisions pose the highest fatal risk to vulnerable road users like pedestrians and cyclists, who lack physical frame protection against increasingly large passenger SUVs and commercial trucks. Addressing this crisis requires shifting from passive driver messaging to aggressive, forgiving infrastructure redesigns and targeted policy interventions. 
+**RECOMMENDATIONS FOR NYC DOT**
 
-<br>
-
-**Recommendations for NYC DOT**
 1.	**Targeted Capital and Corridor Infrastructure Budgets**
 * **Reallocate Outer-Borough Funding:** Direct at least **55% to 60% of roadway safety and street redesign capital budgets** to high-injury corridors in Brooklyn and Queens (e.g., Atlantic Avenue, Linden Boulevard, Flatbush Avenue Extension).
 * **Implement Road Diets on Arterials:** Re-engineer multi-lane avenues by narrowing vehicle lanes, installing speed cushions, and adding pedestrian refuge islands to reduce open-road speeding.
