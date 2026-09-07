@@ -60,6 +60,6 @@ Once all validation and cleaning checks pass, the dataset is exported into two d
 
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the mayor's office.*
-    *    [Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the mayor's office.*
+    *    [Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/README.md) — *The background, target audience, and questions addressed by the analysis.*
     *   [Motor Vehicle Collisions Analysis Full Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/MOTOR%20VEHICLE%20COLLISIONS%20ANALYSIS%20report.pdf)
 
